@@ -1,0 +1,24 @@
+{
+	id: "5F57A88EE0D8D825"
+	order_index: 0
+	title: "Food"
+	loot_size: 1
+	rewards: [
+		{ item: "foodplusid:tolchonka", count: 16 }
+		{ item: "foodplusid:beef_salad", count: 16 }
+		{ item: "croptopia:yam_jam", count: 16 }
+		{ item: "foodplusid:beef_sandwich", count: 16 }
+		{ item: "croptopia:veggie_salad", count: 16 }
+		{ item: "croptopia:sushi", count: 16 }
+		{ item: "cspirit:sugar_cookie_snowman", count: 16 }
+	]
+	loot_crate: {
+		drops: {
+			boss: 0
+			passive: 0
+			monster: 0
+		}
+		color: 16777215
+		string_id: "food"
+	}
+}

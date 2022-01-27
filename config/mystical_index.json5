@@ -1,0 +1,10 @@
+{
+	"BookOfStorage": {
+		// How many stacks a Book Of Storage can hold. Default: 25
+		"MaxStacks": 25,
+		// What blocks do you NOT want the player to be able to store?
+		"BlockBlacklist": [
+			"minecraft:shulker_box"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "MasterSwitchBreeding": 2,
+  "allowBreedingWithVanilla": 80,
+  "allowCrossBreeding": true,
+  "dropAsBreedingItem": false,
+  "allowDeathDropResource": 80,
+  "allowShearingChickens": true,
+  "allowConvertingVanilla": true,
+  "allowInWorldDrops": true,
+  "allowEventTextures": true,
+  "renderNestLabels": true,
+  "renderNestItems": true
+}

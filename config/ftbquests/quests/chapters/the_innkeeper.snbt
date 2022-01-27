@@ -1,0 +1,83 @@
+{
+	id: "06E489B71D6E129D"
+	group: "64FBFF89B8080DD5"
+	order_index: 1
+	filename: "the_innkeeper"
+	title: "The innkeeper"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "You are an innkeeper, act like one!"
+			x: -0.5d
+			y: 0.0d
+			subtitle: "As an innkeeper, your tavern is the main meeting place of the city, make sure you feed your guests well. Get your innkeeper license from the mayor."
+			id: "1FA824693CE7A9AA"
+			tasks: [{
+				id: "5C829F2737D06A7D"
+				type: "item"
+				item: {
+					id: "minecraft:paper"
+					Count: 1b
+					tag: {
+						display: {
+							Name: "[{\"text\":\"Innkeeper license\",\"italic\":false}]"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "39C12BB2EA186E2F"
+				type: "item"
+				item: "taverns:goldcoin"
+				count: 64
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			subtitle: "First build your inn."
+			dependencies: ["1FA824693CE7A9AA"]
+			id: "134AF0FEA3768C26"
+			tasks: [{
+				id: "24583263E5E5D9E0"
+				type: "item"
+				item: "adorn:oak_chair"
+				count: 8L
+			}]
+		}
+		{
+			x: 3.5d
+			y: -1.0d
+			dependencies: ["134AF0FEA3768C26"]
+			id: "0BEDC7212B78CEF2"
+			tasks: [{
+				id: "39461E7222EBFABF"
+				type: "item"
+				item: "adorn:oak_table"
+				count: 2L
+			}]
+		}
+		{
+			icon: "minecraft:jukebox"
+			x: 3.5d
+			y: 1.0d
+			subtitle: "Equip your inn with a jukebox."
+			dependencies: ["0BEDC7212B78CEF2"]
+			id: "1E19978BE064644B"
+			tasks: [{
+				id: "5173FA2B8D57CD78"
+				type: "observation"
+				icon: "minecraft:jukebox"
+				timer: 0L
+				observe_type: 0
+				to_observe: "minecraft:jukebox"
+			}]
+			rewards: [{
+				id: "4F29CC34D2A2B588"
+				type: "item"
+				item: "cspirit:disc_jared"
+			}]
+		}
+	]
+}

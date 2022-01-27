@@ -1,0 +1,13 @@
+{
+  "disableTinOreGen": false,
+  "disableTitaniumOreGen": false,
+  "disableRubyGen": false,
+  "disableTopazGen": false,
+  "disableSapphireGen": false,
+  "disablePearlGen": false,
+  "disableSpinelGen": false,
+  "opWak": 0,
+  "disableUpdateCheck": true,
+  "disableClientAudio": false,
+  "disableThanks": true
+}

@@ -1,0 +1,12 @@
+{
+	"general": {
+		// default = true
+		"enableBambooBlockFuel": true,
+		// default = true
+		"enableCharcoalBlockFuel": true,
+		// default = true
+		"enableFireproofBlocks": true,
+		// default = true
+		"enableGlowingBlocks": true
+	}
+}

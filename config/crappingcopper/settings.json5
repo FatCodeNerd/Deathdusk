@@ -1,0 +1,46 @@
+{
+	/* 
+	   Disabling any items will cause them to disappear in existing worlds, so keep that in mind.
+	   
+	   ==========
+	   Tiers
+	   ==========
+	   WARNING: Disabling a lower tier will disable tiers & items above it 
+	   (I.E., disabling hyper dense copper disables transcended copper and its items)
+	*/
+	"enableCompressedCopper": true,
+	"enableHyperDenseCopper": true,
+	"enableTranscendedCopper": true,
+	/* 
+	   ==========
+	   Hammers
+	   ==========
+	*/
+	"enableCopperHammer": true,
+	"enableCompressedCopperHammer": true,
+	"enableHyperDenseCopperHammer": true,
+	"enableTranscendedCopperHammer": true,
+	/* 
+	   ==========
+	   Tools
+	   ==========
+	   Note: Disabling tools does not disable hammers, there's an option above for that.
+	*/
+	"enableCompressedCopperTools": true,
+	"enableHyperDenseCopperTools": true,
+	"enableTranscendedCopperTools": true,
+	/* 
+	   ==========
+	   Armor
+	   ==========
+	*/
+	"enableCompressedCopperArmor": true,
+	"enableHyperDenseCopperArmor": true,
+	"enableTranscendedCopperArmor": true,
+	/* 
+	   ==========
+	   Misc
+	   ==========
+	*/
+	"enableCopperFeather": true
+}

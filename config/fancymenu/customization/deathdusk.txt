@@ -1,0 +1,216 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = castlebackground
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-left
+  x = 48
+  action = movebutton
+  y = 19
+}
+
+customization {
+  identifier = %id=400310%
+  width = 114
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400310%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400310%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fabric\assets\bhddmutliplayerhover.png
+  backgroundnormal = config\fabric\assets\bhddmultiplayer.png
+}
+
+customization {
+  identifier = %id=400358%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-left
+  x = 48
+  action = movebutton
+  y = -12
+}
+
+customization {
+  identifier = %id=400286%
+  width = 114
+  action = resizebutton
+  height = 33
+}
+
+customization {
+  identifier = %id=400286%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400286%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fabric\assets\bhddsingleplayerhover.png
+  backgroundnormal = config\fabric\assets\bhddsingleplayer.png
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-left
+  x = 48
+  action = movebutton
+  y = 47
+}
+
+customization {
+  identifier = %id=400394%
+  width = 114
+  action = resizebutton
+  height = 34
+}
+
+customization {
+  identifier = %id=400394%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400394%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fabric\assets\bhddoptionshover.png
+  backgroundnormal = config\fabric\assets\bhddoptions.png
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-left
+  x = 49
+  action = movebutton
+  y = 80
+}
+
+customization {
+  identifier = %id=502394%
+  width = 114
+  action = resizebutton
+  height = 34
+}
+
+customization {
+  identifier = %id=502394%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502394%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fabric\assets\bhddquitgamehover.png
+  backgroundnormal = config\fabric\assets\bhddquitgame.png
+}
+
+customization {
+  identifier = %id=376394%
+  action = hidebutton
+}
+
+customization {
+  path = config/fabric/assets/bhddcastleoverlay.png
+  orientation = mid-centered
+  x = -242
+  width = 484
+  action = addtexture
+  actionid = c86ccc02-4576-4297-8eaf-9db9420a40e91642455882360
+  y = -135
+  height = 271
+}
+
+customization {
+  path = config/fabric/assets/bhddlogo.png
+  orientation = mid-left
+  x = 26
+  width = 161
+  action = addtexture
+  actionid = 3563437c-78c3-4722-b281-df3babdb9e171642455466747
+  y = -104
+  height = 90
+}
+
+customization {
+  orientation = mid-right
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = config\fabric\assets\bhddrentaserverhover.png
+  label = 
+  loopbackgroundanimations = true
+  x = -104
+  width = 97
+  actionid = c5ecfbcb-68a4-4c91-9680-5ba394da168c1642455810400
+  action = addbutton
+  y = -124
+  backgroundnormal = config\fabric\assets\bhddrentaserver.png
+  value = https://bisecthosting.com/deathdusk
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = config\fabric\assets\bhddcurseforgehover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 347
+  width = 30
+  actionid = 8fe8a609-34a5-4a0e-8743-1790781b0d751642455850783
+  action = addbutton
+  y = 6
+  backgroundnormal = config\fabric\assets\bhddcurseforge.png
+  value = https://www.curseforge.com/minecraft/modpacks/deathdusk
+  height = 36
+}
+

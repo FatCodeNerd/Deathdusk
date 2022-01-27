@@ -1,0 +1,6 @@
+{
+  "sneakingProtectsOnMagma": false,
+  "frostWalkerProtectsOnMagma": true,
+  "magmaDamagesNonLivingEntities": true,
+  "magmaSetsFireToEntities": false
+}

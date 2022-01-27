@@ -1,0 +1,13 @@
+{
+  "version": "3.0.4",
+  "prevVersion": "3.0.2",
+  "initPopup": true,
+  "generatedBy": "\u003cdefault\u003e",
+  "hashes": {
+    "Default/servers.dat": "6DFC9B3F670C2E23025B759223705939",
+    "Default/keys.txt": "DEDF62503BE318A0D795A7B6B994FF75",
+    "Default/options.txt": "3983429BF8A0DD4B7E25D1B612950D6E"
+  },
+  "mainProfile": "Default",
+  "initially_created": "21.12.2021 00:35:30"
+}

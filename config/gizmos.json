@@ -1,0 +1,13 @@
+{
+  "slingShot": true,
+  "soulFireSpitter": true,
+  "igniteBlocks": true,
+  "fireworkStarBlock": true,
+  "chorusGourdAndCultivatedShulkers": true,
+  "horseshoes": true,
+  "rideableRavagers": true,
+  "pillagerFireworks": true,
+  "statusInfusedSnowGolems": true,
+  "seeker_arrows": true,
+  "ravagerTamingHealthProportion": 0.25
+}
