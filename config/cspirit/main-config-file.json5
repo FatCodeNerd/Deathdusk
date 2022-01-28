@@ -24,9 +24,9 @@
   },
   "misc": {
     //1 in x chance when a zombie or skeleton spawns to give them clothing and a present. Range is 0 - 256
-    "mobArmorRarity": 0.000000000000000000000000000000000000000000000000000000000001,
+    "mobArmorRarity": 20,
     //When false, any Naughty Item in a player's inventory will be deleted.
-    "naughtyItems": false,
+    "naughtyItems": true,
     //When false, can't fly.
     "reindeerFlying": true,
     //The higher the value is, the more frequent it spawns.

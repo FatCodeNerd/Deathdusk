@@ -6,5 +6,9 @@
 		"BlockBlacklist": [
 			"minecraft:shulker_box"
 		]
+	},
+	"BookOfFluid": {
+		// How many buckets of liquid a Book Of Fluids can hold. Default: 10
+		"MaxBuckets": 10
 	}
 }

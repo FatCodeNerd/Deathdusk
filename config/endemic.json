@@ -1,0 +1,13 @@
+{
+  "enable": true,
+  "endemicChance": 100,
+  "overworldNormalChance": 10,
+  "overworldStuntedChance": 50,
+  "overworldDeadChance": 100,
+  "netherNormalChance": 0,
+  "netherStuntedChance": 0,
+  "netherDeadChance": 100,
+  "endNormalChance": 0,
+  "endStuntedChance": 0,
+  "endDeadChance": 0
+}
