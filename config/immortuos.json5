@@ -57,7 +57,9 @@
 		// Changes when the blindness side effect will occur
 		"EFFECTBLIND": 95,
 		// Changes when players will start being damaged by the parasite
-		"EFFECTDAMAGE": 100
+		"EFFECTDAMAGE": 100,
+		// Changes when players will stop gaining infection when injected with a stablized sample.
+		"EFFECTIMPEDEMENT": 89
 	},
 	"entityToggles": {
 		// Chance a newly generated, non-baby villager will be a follower intentionally carrying the Immortuos Calyx Parasite. Higher numbers increase rarity
