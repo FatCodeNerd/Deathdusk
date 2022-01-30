@@ -1,0 +1,42 @@
+{
+  "admin": {
+    "level": 100,
+    "overrides": {
+      "name_style": ["red"],
+      "permission_level": 4,
+      "command_feedback": true,
+      "commands": {
+        ".*": "allow"
+      }
+    }
+  },
+  "moderator": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["green"],
+      "commands": {
+        "gamemode (spectator|adventure|survival)":"allow",
+	"ban": "allow",
+	"ban-ip": "allow",
+	"banlist": "allow",
+	"difficulty": "allow",
+	"pardon": "allow",
+	"pardon-ip": "allow",
+	"weather": "allow",
+	"whitelist": "allow",
+	"time": "allow",
+	"toggledownfall": "allow",
+	"save-all": "allow",
+	"list": "allow"
+      }
+    }
+  },
+  "everyone": {
+    "overrides": {
+      "commands": {
+        "help": "allow",
+        ".*": "deny"
+      }
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "configVersion": 0,
+  "configVersion": 1,
   "fishing": {
     "enabled": true
   },
@@ -642,7 +642,7 @@
     },
     "duckSpawn": {
       "enable": true,
-      "weight": 7,
+      "weight": 6,
       "minGroupSize": 3,
       "maxGroupSize": 4
     },
@@ -660,19 +660,19 @@
     },
     "minnowSpawn": {
       "enable": true,
-      "weight": 5,
+      "weight": 4,
       "minGroupSize": 3,
       "maxGroupSize": 6
     },
     "sardineSpawn": {
       "enable": true,
-      "weight": 5,
+      "weight": 4,
       "minGroupSize": 3,
       "maxGroupSize": 6
     },
     "redPorgySpawn": {
       "enable": true,
-      "weight": 5,
+      "weight": 4,
       "minGroupSize": 3,
       "maxGroupSize": 6
     }

@@ -1,5 +1,5 @@
 {
-  "allowHoppers": false,
+  "allowHoppers": true,
   "allowInsertion": true,
   "allowExtraction": true,
   "enableMultichannelMode": true

@@ -39,7 +39,9 @@
     "piston": true
   },
   "extra_settings": {
+    "overlay_corner": "TOP_LEFT",
     "show_fps": false,
+    "show_f_p_s_extended": true,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
     "cloud_height": 192,

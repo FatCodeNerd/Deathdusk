@@ -898,6 +898,19 @@ mode = "fastest"
 			[light_sources.settings.entities.mcdw]
 				summoned_bee = true
 
+			[light_sources.settings.entities.wildlife]
+				goldfinch = true
+				gecko = true
+				phoebe = true
+				badger = true
+				rhino_beetle = true
+				towhee = true
+				stickbug = true
+				ladybug = true
+				lark = true
+				sparrow = true
+				ferret = true
+
 		[light_sources.settings.block_entities]
 
 			[light_sources.settings.block_entities.minecraft]
