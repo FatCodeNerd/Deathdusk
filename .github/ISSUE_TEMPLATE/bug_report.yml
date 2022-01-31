@@ -17,6 +17,7 @@ body:
       options:
         - '2.8.9'
         - '2.9'
+        - '2.9.1'
     validations:
       required: true
   - type: textarea
