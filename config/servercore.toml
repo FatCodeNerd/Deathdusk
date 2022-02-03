@@ -6,7 +6,7 @@
 	# (Default = false) Stops the server from loading spawn chunks.
 	disable_spawn_chunks = true
 	# (Default = false) Allows more xp orbs to merge with one another, to reduce xp orb lag.
-	fast_xp_merging = false
+	fast_xp_merging = true
 	# (Default = false) Prevents players from moving into unloaded chunks.
 	prevent_moving_into_unloaded_chunks = false
 	# (Default = true) Whether the custom portal radius will use the vanilla dimension scale.
@@ -17,7 +17,7 @@
 	# It is recommended to make this smaller than the search radius.
 	portal_create_radius = 16
 	# (Default = false) Makes villagers tick less often if they are stuck in a 1x1 space.
-	lobotomize_villagers = false
+	lobotomize_villagers = true
 	# (Default = 20) Decides the interval in between villager ticks when lobotomized.
 	lobotomized_tick_interval = 20
 	# (Default = -1) The threshold MSPT that the server is allowed to run mid-tick chunk saves at.
@@ -34,7 +34,7 @@
 	# (Default = false) Enables this feature.
 	enabled = true
 	# (Default = 35) The average MSPT to target.
-	target_mspt = 25
+	target_mspt = 35
 	# (Default = 15) The amount of seconds between dynamic performance updates.
 	update_rate = 15
 	# (Default = 150) The amount of seconds between dynamic viewdistance updates.
@@ -67,7 +67,7 @@
 # Allows you to disable specific commands and modify the way some of them are formatted.
 [commands]
 	# Enables / disables the /sc status command.
-	command_status = true
+	command_status = false
 	# The content for the /sc status command.
 	status_content = "§3>----( §bServerCore §3)----<\n§7>§8> §3Chunk-Tick Distance: §a%CHUNK_TICK_DISTANCE%\n§7>§8> §3Simulation Distance: §a%SIMULATION_DISTANCE%\n§7>§8> §3View Distance: §a%VIEW_DISTANCE%\n§7>§8> §3Mobcap Multiplier: §a%MOBCAPS%"
 	# Enables / disables the /mobcaps command.

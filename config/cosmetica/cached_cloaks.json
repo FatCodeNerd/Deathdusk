@@ -1530,11 +1530,6 @@
     "cloak": "void"
   },
   {
-    "name": "Meganodark",
-    "uuid": "5d9c7410-06ac-4bfb-aa48-c567c004a1d7",
-    "cloak": "void"
-  },
-  {
     "name": "ErasedTruth",
     "uuid": "b644985c-8e73-4983-9773-84a90f6dbadc",
     "cloak": "mystic"
@@ -1748,5 +1743,15 @@
     "name": "PinkGoosik",
     "uuid": "59abdc87-d23e-4877-beaf-a7bb84b15697",
     "cloak": "crimson"
+  },
+  {
+    "name": "Fredzorg",
+    "uuid": "d3c4cad0-47eb-4536-8589-9eda4132227e",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "Meganodark",
+    "uuid": "5d9c7410-06ac-4bfb-aa48-c567c004a1d7",
+    "cloak": "azure"
   }
 ]

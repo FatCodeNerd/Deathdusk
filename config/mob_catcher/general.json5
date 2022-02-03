@@ -3,6 +3,6 @@
 	   Settings
 	   ***********************
 	*/
-	"enableHostileOnPassiveCatcher": false,
-	"enableHostileMobCatcherVersion": true
+	"enableHostileMobCatcherVersion": true,
+	"enableDatapackMobTypes": false
 }

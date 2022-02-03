@@ -911,6 +911,21 @@ mode = "fastest"
 				sparrow = true
 				ferret = true
 
+			[light_sources.settings.entities.earth]
+				rubro = true
+
+			[light_sources.settings.entities.doom]
+				rocket = true
+				chaingunbullets = true
+				imp2016 = true
+				unwilling = true
+				shotgunguy = true
+				imp = true
+
+			[light_sources.settings.entities.immortuoscalyx]
+				infectedplayer = true
+				infectedvillager = true
+
 		[light_sources.settings.block_entities]
 
 			[light_sources.settings.block_entities.minecraft]

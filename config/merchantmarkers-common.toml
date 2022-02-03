@@ -38,4 +38,7 @@
 		# The items associated with each villager profession.  Only used when marker type is set to "items".
 		# If not specified here, vanilla professions will have a default item and modded professions will have a generic icon.
 		associated_items = {}
+		# The opacity of displayed markers and arrows.
+		#Range: 0.1 ~ 1.0
+		opacity = 1.0
 

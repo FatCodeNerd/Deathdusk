@@ -1,0 +1,124 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 30, 2022, 6:26:25 PM
+
+#c:visual/water
+- minecraft:water
+- minecraft:flowing_water
+- the_bumblezone:sugar_water_still
+- the_bumblezone:sugar_water_flowing
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#c:visual/honey
+- the_bumblezone:honey_fluid_still
+- the_bumblezone:honey_fluid_flowing
+
+#c:honey
+- the_bumblezone:honey_fluid_still
+- the_bumblezone:honey_fluid_flowing
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+- minecraft:water
+- hyperlighting:white_colored_water_still
+- hyperlighting:white_colored_water_flowing
+- hyperlighting:orange_colored_water_still
+- hyperlighting:orange_colored_water_flowing
+- hyperlighting:magenta_colored_water_still
+- hyperlighting:magenta_colored_water_flowing
+- hyperlighting:light_blue_colored_water_still
+- hyperlighting:light_blue_colored_water_flowing
+- hyperlighting:yellow_colored_water_still
+- hyperlighting:yellow_colored_water_flowing
+- hyperlighting:lime_colored_water_still
+- hyperlighting:lime_colored_water_flowing
+- hyperlighting:pink_colored_water_still
+- hyperlighting:pink_colored_water_flowing
+- hyperlighting:gray_colored_water_still
+- hyperlighting:gray_colored_water_flowing
+- hyperlighting:light_gray_colored_water_still
+- hyperlighting:light_gray_colored_water_flowing
+- hyperlighting:cyan_colored_water_still
+- hyperlighting:cyan_colored_water_flowing
+- hyperlighting:purple_colored_water_still
+- hyperlighting:purple_colored_water_flowing
+- hyperlighting:blue_colored_water_still
+- hyperlighting:blue_colored_water_flowing
+- hyperlighting:brown_colored_water_still
+- hyperlighting:brown_colored_water_flowing
+- hyperlighting:green_colored_water_still
+- hyperlighting:green_colored_water_flowing
+- hyperlighting:red_colored_water_still
+- hyperlighting:red_colored_water_flowing
+- hyperlighting:black_colored_water_still
+- hyperlighting:black_colored_water_flowing
+- hyperlighting:white_colored_glowing_water_still
+- hyperlighting:white_colored_glowing_water_flowing
+- hyperlighting:orange_colored_glowing_water_still
+- hyperlighting:orange_colored_glowing_water_flowing
+- hyperlighting:magenta_colored_glowing_water_still
+- hyperlighting:magenta_colored_glowing_water_flowing
+- hyperlighting:light_blue_colored_glowing_water_still
+- hyperlighting:light_blue_colored_glowing_water_flowing
+- hyperlighting:yellow_colored_glowing_water_still
+- hyperlighting:yellow_colored_glowing_water_flowing
+- hyperlighting:lime_colored_glowing_water_still
+- hyperlighting:lime_colored_glowing_water_flowing
+- hyperlighting:pink_colored_glowing_water_still
+- hyperlighting:pink_colored_glowing_water_flowing
+- hyperlighting:gray_colored_glowing_water_still
+- hyperlighting:gray_colored_glowing_water_flowing
+- hyperlighting:light_gray_colored_glowing_water_still
+- hyperlighting:light_gray_colored_glowing_water_flowing
+- hyperlighting:cyan_colored_glowing_water_still
+- hyperlighting:cyan_colored_glowing_water_flowing
+- hyperlighting:purple_colored_glowing_water_still
+- hyperlighting:purple_colored_glowing_water_flowing
+- hyperlighting:blue_colored_glowing_water_still
+- hyperlighting:blue_colored_glowing_water_flowing
+- hyperlighting:brown_colored_glowing_water_still
+- hyperlighting:brown_colored_glowing_water_flowing
+- hyperlighting:green_colored_glowing_water_still
+- hyperlighting:green_colored_glowing_water_flowing
+- hyperlighting:red_colored_glowing_water_still
+- hyperlighting:red_colored_glowing_water_flowing
+- hyperlighting:black_colored_glowing_water_still
+- hyperlighting:black_colored_glowing_water_flowing
+- milk:flowing_milk
+- milk:still_milk
+- the_bumblezone:sugar_water_still
+- the_bumblezone:sugar_water_flowing
+- xps:xp_fluid
+- xps:flowing_xp
+
+#c:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+
+#spectrum:liquid_crystal
+- spectrum:liquid_crystal
+- spectrum:flowing_liquid_crystal
+
+#spectrum:mud
+- spectrum:mud
+- spectrum:flowing_mud
+
+#earthtojavamobs:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+
+#c:milk
+- milk:flowing_milk
+- milk:still_milk
+
+#the_bumblezone:honey
+- the_bumblezone:honey_fluid_still
+- the_bumblezone:honey_fluid_flowing
+
+#the_bumblezone:convertible_to_sugar_water
+- minecraft:water
+- minecraft:flowing_water

@@ -172,7 +172,7 @@
       "weight": 0,
       "minGroup": 2,
       "maxGroup": 3,
-      "allowedBiomesAndBiomeCategories": [
+      "allowedBiomeCategories": [
         "taiga",
         "extreme_hills",
         "jungle",
@@ -184,17 +184,20 @@
         "forest",
         "desert",
         "swamp",
-        "mushroom",
         "underground",
         "mountain"
+      ],
+      "blacklistedBiomes": [
+        "flower_forest",
+        "lush_caves"
       ]
     },
     "revenant": {
       "enabled": true,
-      "weight": 45,
+      "weight": 25,
       "minGroup": 5,
       "maxGroup": 8,
-      "allowedBiomesAndBiomeCategories": [
+      "allowedBiomeCategories": [
         "taiga",
         "extreme_hills",
         "jungle",
@@ -206,17 +209,20 @@
         "forest",
         "desert",
         "swamp",
-        "mushroom",
         "underground",
         "mountain"
+      ],
+      "blacklistedBiomes": [
+        "flower_forest",
+        "lush_caves"
       ]
     },
     "skeleton_creeper": {
       "enabled": true,
-      "weight": 35,
+      "weight": 25,
       "minGroup": 1,
       "maxGroup": 4,
-      "allowedBiomesAndBiomeCategories": [
+      "allowedBiomeCategories": [
         "taiga",
         "extreme_hills",
         "jungle",
@@ -228,17 +234,20 @@
         "forest",
         "desert",
         "swamp",
-        "mushroom",
         "underground",
         "mountain"
+      ],
+      "blacklistedBiomes": [
+        "flower_forest",
+        "lush_caves"
       ]
     },
     "ghoul": {
       "enabled": true,
-      "weight": 45,
+      "weight": 25,
       "minGroup": 2,
       "maxGroup": 5,
-      "allowedBiomesAndBiomeCategories": [
+      "allowedBiomeCategories": [
         "taiga",
         "extreme_hills",
         "jungle",
@@ -250,9 +259,12 @@
         "forest",
         "desert",
         "swamp",
-        "mushroom",
         "underground",
         "mountain"
+      ],
+      "blacklistedBiomes": [
+        "flower_forest",
+        "lush_caves"
       ]
     },
     "reaper": {
@@ -260,7 +272,7 @@
       "weight": 0,
       "minGroup": 2,
       "maxGroup": 3,
-      "allowedBiomesAndBiomeCategories": [
+      "allowedBiomeCategories": [
         "taiga",
         "extreme_hills",
         "jungle",
@@ -272,17 +284,20 @@
         "forest",
         "desert",
         "swamp",
-        "mushroom",
         "underground",
         "mountain"
+      ],
+      "blacklistedBiomes": [
+        "flower_forest",
+        "lush_caves"
       ]
     },
     "nightmare": {
       "enabled": true,
-      "weight": 15,
+      "weight": 10,
       "minGroup": 1,
       "maxGroup": 1,
-      "allowedBiomesAndBiomeCategories": [
+      "allowedBiomeCategories": [
         "taiga",
         "extreme_hills",
         "jungle",
@@ -294,9 +309,12 @@
         "forest",
         "desert",
         "swamp",
-        "mushroom",
         "underground",
         "mountain"
+      ],
+      "blacklistedBiomes": [
+        "flower_forest",
+        "lush_caves"
       ]
     }
   },
@@ -304,7 +322,7 @@
     "horde_spawn": {
       "enabled": true,
       "size": 40,
-      "ticksUntilNextSpawn": 12000
+      "ticksUntilNextSpawn": 24000
     }
   }
 }

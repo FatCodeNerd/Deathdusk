@@ -808,6 +808,10 @@
     "spectrum:white_sapling": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "simplemango:mango_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

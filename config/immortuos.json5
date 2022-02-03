@@ -32,6 +32,8 @@
 		"ZOMBIEINFECTIONVALUE": 20,
 		// Infection rate of eating raw food
 		"RAWFOODINFECTIONVALUE": 10,
+		// Enables aerosolized infections, which allow zombies, heavily infected entities, and other entities that are infected to occasionally infect randomly, configurable by the other "AERIALRATE" configs in this group.
+		"AEROSOLIZEDINFECTION": false,
 		// Higher numbers reduces aerosol infection attempts from custom infected entities
 		"INFECTEDAERIALRATE": 5000,
 		// Higher numbers reduces aerosol infection attempts from zombies, and zombie-like mobs
