@@ -1,7 +1,0 @@
-{
-  "standardCampFiresBurnItems": true,
-  "soulCampFiresBurnItems": true,
-  "frostWalkerProtectsFromStandardCampFires": true,
-  "frostWalkerProtectsFromSoulCampFires": false,
-  "enableCrowdin": true
-}

@@ -1,4 +1,0 @@
-{
-	// The delay in ms in between the ability to extract poison per mob.
-	"extractDelayMs": 60000
-}

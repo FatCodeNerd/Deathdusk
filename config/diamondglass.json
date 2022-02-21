@@ -1,8 +1,0 @@
-{
-  "diaSandMinYLevel": 20,
-  "diaSandMaxYLevel": 64,
-  "diaSandPerChunk": 20,
-  "diaSandVeinSize": 7,
-  "diaSandInOverworld": true,
-  "biomeWhitelist": []
-}

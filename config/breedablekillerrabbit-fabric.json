@@ -1,6 +1,0 @@
-{
-	// The chance that a baby rabbit is of the killer variant.
-	"chanceBabyRabbitIsKiller": 0.05,
-	// Remove the name 'The Killer Bunny' from the baby killer rabbit.
-	"removeKillerRabbitNameTag": true
-}
