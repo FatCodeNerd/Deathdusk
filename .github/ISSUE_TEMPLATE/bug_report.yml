@@ -15,12 +15,7 @@ body:
       label: Version
       description: Which version are you using?
       options:
-        - '2.8.9'
-        - '2.9'
-        - '2.9.1'
-        - '2.9.2'
-        - '2.9.3'
-        - '2.9.4'
+        - '1.0.0'
     validations:
       required: true
   - type: textarea
