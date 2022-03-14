@@ -16,6 +16,8 @@ body:
       description: Which version are you using?
       options:
         - '1.0.0'
+        - '1.0.1'
+        - '1.0.2'
     validations:
       required: true
   - type: textarea
