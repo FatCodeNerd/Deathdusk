@@ -9,13 +9,12 @@ body:
       description: Also tell us, what did you expect to happen?
     validations:
       required: true
-  - type: dropdown
+  - type: input
     id: version
     attributes:
       label: Version
       description: Which version are you using?
-      options:
-        - '1.2.0'
+      placeholder: 0.0.0
     validations:
       required: true
   - type: textarea
